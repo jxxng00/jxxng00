@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&customColorList=2&text=Ahyeong%20Jeong&fontSize=70&fontAlignY=38)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jxxng00=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
